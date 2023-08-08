@@ -1,0 +1,273 @@
+{"label":"PERSON","pattern":"Eddard Stark"}
+{"label":"PERSON","pattern":"Catelyn Stark"}
+{"label":"PERSON","pattern":"Robb Stark"}
+{"label":"PERSON","pattern":"Sansa Stark"}
+{"label":"PERSON","pattern":"Arya Stark"}
+{"label":"PERSON","pattern":"Bran Stark"}
+{"label":"PERSON","pattern":"Rickon Stark"}
+{"label":"PERSON","pattern":"Jon Snow"}
+{"label":"PERSON","pattern":"Benjen Stark"}
+{"label":"PERSON","pattern":"Lyanna Stark"}
+{"label":"PERSON","pattern":"Jeyne Westerling"}
+{"label":"PERSON","pattern":"Roose Bolton"}
+{"label":"PERSON","pattern":"Ramsay Bolton "}
+{"label":"PERSON","pattern":"Rickard Karstark"}
+{"label":"PERSON","pattern":"Alys Karstark"}
+{"label":"PERSON","pattern":"Wyman Manderly"}
+{"label":"PERSON","pattern":"Hodor"}
+{"label":"PERSON","pattern":"Osha"}
+{"label":"PERSON","pattern":"Jeyne Poole"}
+{"label":"PERSON","pattern":"Jojen and Meera Reed "}
+{"label":"PERSON","pattern":"Aegon V Targaryen"}
+{"label":"PERSON","pattern":"Aerys II Targaryen "}
+{"label":"PERSON","pattern":"Rhaegar Targaryen"}
+{"label":"PERSON","pattern":"Viserys Targaryen "}
+{"label":"PERSON","pattern":"Daenerys Targaryen"}
+{"label":"PERSON","pattern":"Aegon Targaryen "}
+{"label":"PERSON","pattern":"Brynden Rivers"}
+{"label":"PERSON","pattern":"Maekar I Targaryen"}
+{"label":"PERSON","pattern":"Jon Connington"}
+{"label":"PERSON","pattern":"Jorah Mormont"}
+{"label":"PERSON","pattern":"Missandei"}
+{"label":"PERSON","pattern":"Daario Naharis"}
+{"label":"PERSON","pattern":"Grey Worm"}
+{"label":"PERSON","pattern":"Tywin Lannister"}
+{"label":"PERSON","pattern":"Cersei Lannister"}
+{"label":"PERSON","pattern":"Jaime Lannister"}
+{"label":"PERSON","pattern":"Tyrion Lannister"}
+{"label":"PERSON","pattern":"Joffrey Baratheon"}
+{"label":"PERSON","pattern":"Myrcella Baratheon"}
+{"label":"PERSON","pattern":"Tommen Baratheon"}
+{"label":"PERSON","pattern":"Kevan Lannister"}
+{"label":"PERSON","pattern":"Lancel Lannister"}
+{"label":"PERSON","pattern":"Bronn"}
+{"label":"PERSON","pattern":"Gregor Clegane"}
+{"label":"PERSON","pattern":"Sandor Clegane"}
+{"label":"PERSON","pattern":"Podrick Payne"}
+{"label":"PERSON","pattern":"Shae"}
+{"label":"PERSON","pattern":"Robert Baratheon"}
+{"label":"PERSON","pattern":"Stannis Baratheon"}
+{"label":"PERSON","pattern":"Renly Baratheon"}
+{"label":"PERSON","pattern":"Selyse Baratheon"}
+{"label":"PERSON","pattern":"Shireen Baratheon"}
+{"label":"PERSON","pattern":"Gendry"}
+{"label":"PERSON","pattern":"Edric Storm"}
+{"label":"PERSON","pattern":"Melisandre"}
+{"label":"PERSON","pattern":"Davos Seaworth"}
+{"label":"PERSON","pattern":"Brienne of Tarth"}
+{"label":"PERSON","pattern":"Beric Dondarrion"}
+{"label":"PERSON","pattern":"Jon Arryn"}
+{"label":"PERSON","pattern":"Lysa Arryn "}
+{"label":"PERSON","pattern":"Robert Arryn"}
+{"label":"PERSON","pattern":"Yohn Royce"}
+{"label":"PERSON","pattern":"Anya Waynwood"}
+{"label":"PERSON","pattern":"Nestor Royce"}
+{"label":"PERSON","pattern":"Balon Greyjoy"}
+{"label":"PERSON","pattern":"Asha Greyjoy "}
+{"label":"PERSON","pattern":"Theon Greyjoy"}
+{"label":"PERSON","pattern":"Euron Greyjoy"}
+{"label":"PERSON","pattern":"Victarion Greyjoy"}
+{"label":"PERSON","pattern":"Aeron Greyjoy"}
+{"label":"PERSON","pattern":"Rodrik Harlaw"}
+{"label":"PERSON","pattern":"Doran Martell"}
+{"label":"PERSON","pattern":"Arianne Martell"}
+{"label":"PERSON","pattern":"Quentyn Martell"}
+{"label":"PERSON","pattern":"Trystane Martell"}
+{"label":"PERSON","pattern":"Elia Martell"}
+{"label":"PERSON","pattern":"Oberyn Martell"}
+{"label":"PERSON","pattern":"Ellaria Sand"}
+{"label":"PERSON","pattern":"The Sand Snakes"}
+{"label":"PERSON","pattern":"Servants"}
+{"label":"PERSON","pattern":"Areo Hotah"}
+{"label":"PERSON","pattern":"Hoster Tully"}
+{"label":"PERSON","pattern":"Minisa Whent"}
+{"label":"PERSON","pattern":"Edmure Tully"}
+{"label":"PERSON","pattern":"Brynden Tully"}
+{"label":"PERSON","pattern":"Walder Frey"}
+{"label":"PERSON","pattern":"Mace Tyrell"}
+{"label":"PERSON","pattern":"Alerie Tyrell"}
+{"label":"PERSON","pattern":"Willas Tyrell"}
+{"label":"PERSON","pattern":"Garlan Tyrell"}
+{"label":"PERSON","pattern":"Loras Tyrell"}
+{"label":"PERSON","pattern":"Margaery Tyrell"}
+{"label":"PERSON","pattern":"Olenna Tyrell "}
+{"label":"PERSON","pattern":"Randyll Tarly"}
+{"label":"PERSON","pattern":"Jeor Mormont"}
+{"label":"PERSON","pattern":"Maester Aemon"}
+{"label":"PERSON","pattern":"Yoren"}
+{"label":"PERSON","pattern":"Samwell Tarly"}
+{"label":"PERSON","pattern":"Janos Slynt"}
+{"label":"PERSON","pattern":"Alliser Thorne"}
+{"label":"PERSON","pattern":"Bowen Marsh"}
+{"label":"PERSON","pattern":"Eddison Tollett"}
+{"label":"PERSON","pattern":"Waymar Royce"}
+{"label":"PERSON","pattern":"Mance Rayder"}
+{"label":"PERSON","pattern":" Ygritte"}
+{"label":"PERSON","pattern":"Craster"}
+{"label":"PERSON","pattern":"Gilly"}
+{"label":"PERSON","pattern":"Val"}
+{"label":"PERSON","pattern":"Lord of Bones"}
+{"label":"PERSON","pattern":"Tormund Giantsbane"}
+{"label":"PERSON","pattern":"Varamyr Sixskins"}
+{"label":"PERSON","pattern":"King's Landing"}
+{"label":"PERSON","pattern":"Small Council"}
+{"label":"PERSON","pattern":"Petyr Baelish "}
+{"label":"PERSON","pattern":"Varys"}
+{"label":"PERSON","pattern":"Pycelle"}
+{"label":"PERSON","pattern":"Qyburn"}
+{"label":"PERSON","pattern":"Barristan Selmy"}
+{"label":"PERSON","pattern":"Arys Oakheart"}
+{"label":"PERSON","pattern":"Meryn Trant"}
+{"label":"PERSON","pattern":"Balon Swann"}
+{"label":"PERSON","pattern":"Ilyn Payne"}
+{"label":"PERSON","pattern":"The High Sparrow"}
+{"label":"PERSON","pattern":"Syrio Forel"}
+{"label":"PERSON","pattern":"Thoros of Myr"}
+{"label":"PERSON","pattern":"Meribald"}
+{"label":"PERSON","pattern":"Septa Unella"}
+{"label":"PERSON","pattern":"Essos"}
+{"label":"PERSON","pattern":"Khal Drogo"}
+{"label":"PERSON","pattern":"Jaqen H'ghar"}
+{"label":"PERSON","pattern":"Illyrio Mopatis"}
+{"label":"PERSON","pattern":"Hizdahr zo Loraq"}
+{"label":"PERSON","pattern":"Penny"}
+{"label":"PERSON","pattern":"Yezzan zo Qaggaz"}
+{"label":"PERSON","pattern":"Tycho Nestoris"}
+{"label":"PERSON","pattern":"Quaithe"}
+{"label":"PERSON","pattern":"The Waif"}
+{"label":"PERSON","pattern":"Eddard"}
+{"label":"PERSON","pattern":"Catelyn"}
+{"label":"PERSON","pattern":"Robb"}
+{"label":"PERSON","pattern":"Sansa"}
+{"label":"PERSON","pattern":"Arya"}
+{"label":"PERSON","pattern":"Bran"}
+{"label":"PERSON","pattern":"Rickon"}
+{"label":"PERSON","pattern":"Jon"}
+{"label":"PERSON","pattern":"Benjen"}
+{"label":"PERSON","pattern":"Lyanna"}
+{"label":"PERSON","pattern":"Jeyne"}
+{"label":"PERSON","pattern":"Roose"}
+{"label":"PERSON","pattern":"Ramsay"}
+{"label":"PERSON","pattern":"Rickard"}
+{"label":"PERSON","pattern":"Alys"}
+{"label":"PERSON","pattern":"Wyman"}
+{"label":"PERSON","pattern":"Hodor"}
+{"label":"PERSON","pattern":"Osha"}
+{"label":"PERSON","pattern":"Jeyne"}
+{"label":"PERSON","pattern":"Jojen and"}
+{"label":"PERSON","pattern":"Aegon V"}
+{"label":"PERSON","pattern":"Aerys II"}
+{"label":"PERSON","pattern":"Rhaegar"}
+{"label":"PERSON","pattern":"Viserys"}
+{"label":"PERSON","pattern":"Daenerys"}
+{"label":"PERSON","pattern":"Aegon"}
+{"label":"PERSON","pattern":"Brynden"}
+{"label":"PERSON","pattern":"Maekar I"}
+{"label":"PERSON","pattern":"Jon"}
+{"label":"PERSON","pattern":"Jorah"}
+{"label":"PERSON","pattern":"Missandei"}
+{"label":"PERSON","pattern":"Daario"}
+{"label":"PERSON","pattern":"Grey"}
+{"label":"PERSON","pattern":"Tywin"}
+{"label":"PERSON","pattern":"Cersei"}
+{"label":"PERSON","pattern":"Jaime"}
+{"label":"PERSON","pattern":"Tyrion"}
+{"label":"PERSON","pattern":"Joffrey"}
+{"label":"PERSON","pattern":"Myrcella"}
+{"label":"PERSON","pattern":"Tommen"}
+{"label":"PERSON","pattern":"Kevan"}
+{"label":"PERSON","pattern":"Lancel"}
+{"label":"PERSON","pattern":"Bronn"}
+{"label":"PERSON","pattern":"Gregor"}
+{"label":"PERSON","pattern":"Sandor"}
+{"label":"PERSON","pattern":"Podrick"}
+{"label":"PERSON","pattern":"Shae"}
+{"label":"PERSON","pattern":"Robert"}
+{"label":"PERSON","pattern":"Stannis"}
+{"label":"PERSON","pattern":"Renly"}
+{"label":"PERSON","pattern":"Selyse"}
+{"label":"PERSON","pattern":"Shireen"}
+{"label":"PERSON","pattern":"Gendry"}
+{"label":"PERSON","pattern":"Edric"}
+{"label":"PERSON","pattern":"Melisandre"}
+{"label":"PERSON","pattern":"Davos"}
+{"label":"PERSON","pattern":"Brienne of"}
+{"label":"PERSON","pattern":"Beric"}
+{"label":"PERSON","pattern":"Jon"}
+{"label":"PERSON","pattern":"Lysa"}
+{"label":"PERSON","pattern":"Robert"}
+{"label":"PERSON","pattern":"Yohn"}
+{"label":"PERSON","pattern":"Anya"}
+{"label":"PERSON","pattern":"Nestor"}
+{"label":"PERSON","pattern":"Balon"}
+{"label":"PERSON","pattern":"Asha"}
+{"label":"PERSON","pattern":"Theon"}
+{"label":"PERSON","pattern":"Euron"}
+{"label":"PERSON","pattern":"Victarion"}
+{"label":"PERSON","pattern":"Aeron"}
+{"label":"PERSON","pattern":"Rodrik"}
+{"label":"PERSON","pattern":"Doran"}
+{"label":"PERSON","pattern":"Arianne"}
+{"label":"PERSON","pattern":"Quentyn"}
+{"label":"PERSON","pattern":"Trystane"}
+{"label":"PERSON","pattern":"Elia"}
+{"label":"PERSON","pattern":"Oberyn"}
+{"label":"PERSON","pattern":"Ellaria"}
+{"label":"PERSON","pattern":"The Sand"}
+{"label":"PERSON","pattern":"Servants"}
+{"label":"PERSON","pattern":"Areo"}
+{"label":"PERSON","pattern":"Hoster"}
+{"label":"PERSON","pattern":"Minisa"}
+{"label":"PERSON","pattern":"Edmure"}
+{"label":"PERSON","pattern":"Brynden"}
+{"label":"PERSON","pattern":"Walder"}
+{"label":"PERSON","pattern":"Mace"}
+{"label":"PERSON","pattern":"Alerie"}
+{"label":"PERSON","pattern":"Willas"}
+{"label":"PERSON","pattern":"Garlan"}
+{"label":"PERSON","pattern":"Loras"}
+{"label":"PERSON","pattern":"Margaery"}
+{"label":"PERSON","pattern":"Olenna"}
+{"label":"PERSON","pattern":"Randyll"}
+{"label":"PERSON","pattern":"The Waif"}
+{"label":"PERSON","pattern":"Jeor"}
+{"label":"PERSON","pattern":"Maester"}
+{"label":"PERSON","pattern":"Yoren"}
+{"label":"PERSON","pattern":"Samwell"}
+{"label":"PERSON","pattern":"Janos"}
+{"label":"PERSON","pattern":"Alliser"}
+{"label":"PERSON","pattern":"Bowen"}
+{"label":"PERSON","pattern":"Eddison"}
+{"label":"PERSON","pattern":"Waymar"}
+{"label":"PERSON","pattern":"Mance"}
+{"label":"PERSON","pattern":"Ygritte"}
+{"label":"PERSON","pattern":"Craster"}
+{"label":"PERSON","pattern":"Gilly"}
+{"label":"PERSON","pattern":"Val"}
+{"label":"PERSON","pattern":"Tormund"}
+{"label":"PERSON","pattern":"Varamyr"}
+{"label":"PERSON","pattern":"King's"}
+{"label":"PERSON","pattern":"Small"}
+{"label":"PERSON","pattern":"Petyr"}
+{"label":"PERSON","pattern":"Varys"}
+{"label":"PERSON","pattern":"Pycelle"}
+{"label":"PERSON","pattern":"Qyburn"}
+{"label":"PERSON","pattern":"Kingsguard"}
+{"label":"PERSON","pattern":"Barristan"}
+{"label":"PERSON","pattern":"Arys"}
+{"label":"PERSON","pattern":"Meryn"}
+{"label":"PERSON","pattern":"Balon"}
+{"label":"PERSON","pattern":"Ilyn"}
+{"label":"PERSON","pattern":"Syrio"}
+{"label":"PERSON","pattern":"Meribald"}
+{"label":"PERSON","pattern":"Septa"}
+{"label":"PERSON","pattern":"Essos"}
+{"label":"PERSON","pattern":"Khal"}
+{"label":"PERSON","pattern":"Jaqen"}
+{"label":"PERSON","pattern":"Illyrio"}
+{"label":"PERSON","pattern":"Hizdahr"}
+{"label":"PERSON","pattern":"Penny"}
+{"label":"PERSON","pattern":"Yezzan "}
+{"label":"PERSON","pattern":"Tycho"}
+{"label":"PERSON","pattern":"Quaithe"}
+{"label":"PERSON","pattern":"The Waif"}
