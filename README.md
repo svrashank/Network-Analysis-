@@ -44,5 +44,15 @@
   * Closeness 
 * Communities module of python can show sets of character that frequently interact with each other
 * ![alt text](https://github.com/svrashank/Network-Analysis-/blob/master/GOT_book1.JPG "Book 1 network and communities")
- 
+
+ #### 4: Character Relavancy and path between characters 
+ * In the second notebook I create a graph object for all the books and store them using pickle module for future use
+ * Using the graph object for all the books we cam track a characters importance throughout the series using measure centrality of all the books
+ * ![alt text](https://github.com/svrashank/Network-Analysis-/blob/master/Char_evolve1.JPG 'Character Evolution')
+ * ![alt text](https://github.com/svrashank/Network-Analysis-/blob/master/char_evolve2.JPG 'Character Evolution 2')
+ * I further wanted to add a function that returns the most relevant path betweeen two characters
+ * Example - Ramsay and jon may have a direct weight of 10 but there may be an alternative path with a greater weight
+ * Some research into finding an algorithm showed that longest path problem to be np-hard
+ * Instead ,setttled for the least relevant path between two characters using Djikstra's algorithm
+ * ![alt text](https://github.com/svrashank/Network-Analysis-/blob/master/shortest%20path.JPG 'Shortest path') 
 
