@@ -23,11 +23,11 @@
 * Every book had a foreword and honorable mentions to real people in George.R.R.Martin's life. So, I splitted the file on the word Prolouge(every book had one)
 
 ### Methodology 
-#### Step 1 :Webscrapper for Character Names 
+#### 1 :Webscrapper for Character Names 
 * The Wikipdea page of the novel contained all the character names
 * Extracted the names ,did some string formatting and dumped them in a json file (Refer 'character_name_scrapper.py' for detailed explanation)
 
-#### Step2: Create a custom NER 
+#### 2: Create a custom NER 
 * 
  
 
