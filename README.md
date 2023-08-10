@@ -23,11 +23,26 @@
 * Every book had a foreword and honorable mentions to real people in George.R.R.Martin's life. So, I splitted the file on the word Prolouge(every book had one)
 
 ### Methodology 
-#### 1 :Webscrapper for Character Names 
+#### 1: Webscrapper for Character Names 
 * The Wikipdea page of the novel contained all the character names
 * Extracted the names ,did some string formatting and dumped them in a json file (Refer 'character_name_scrapper.py' for detailed explanation)
 
 #### 2: Create a custom NER 
-* 
+* Load the json file with character names ,using for loop create a dictionary consisting of label and the entity
+* Pass this Dictionary as an NER into an empty spacy object
+* Add a sentencizer to our custom ner
+
+#### 3: Network Analysis of Book 1 
+* Using our custom NER (GOT_NER) , a create a dataframe consisting of two columns 1)The sentence 2) Names of characterx in that sentence
+* A set of characters are supposed to be closely related if they are mentioned in the same or subsequent few sentences
+* Created a rolling window of 5 sentences. If two characters appeared within those 5 sentences then they were grouped together
+* Using groupby and sum function we can calculate the number of time a set of characters interacted in a novel
+* With the above information an edge list dataframe can be created and hence a graph object (G) was created 
+* Graph visualizations :
+  * Betweeness 
+  * Centrality
+  * Closeness 
+* Communities module of python can show sets of character that frequently interact with each other
+* ![alt text](https://github.com/svrashank/Network-Analysis-/blob/master/GOT_book1.JPG "Book 1 network and communities")
  
 
