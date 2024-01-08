@@ -1,4 +1,4 @@
-# Network-Analysis-
+# Network-Analysis-of-the-novel-'The Song of Fire and Ice'
 ### Project Overview 
 * The main objective of the project is to examine the extent of relationship between characters and also their significance in each book
 * The character names in form of a list was obtained through webscrapping the wikipedia page of the novel
